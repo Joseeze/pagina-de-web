@@ -1,0 +1,39 @@
+body {
+background-color:rgb(215, 215, 221);
+font-family: Arial, Helvetica, sans-serif;
+margin: 20px;
+}
+/* titulo principal*/
+#titulo-principal{
+    color:darkgreen;
+    font-size: 36px;
+    text-align:ceter;
+}
+/*subititulo*/
+h2,h3{
+    color:rgb(0, 0, 0);
+    margin-top: 20px; 
+}
+/*imagem com clesse*/
+.poster{
+    display: block;
+margin: 20px;
+border: 3px solid rgb(4, 15, 51)
+border: radius 10px;
+width: 200px;
+}
+/*link*/
+a{
+   color: #dddddd; 
+}
+   a:hover{
+text-decoration: underline;
+   }
+    footer{
+        background-color: azure;
+        color: #cccbcb;
+        text-align: center;
+        padding: 10px;
+        margin-top: 30px;
+        border-radius: 8px;
+    }
